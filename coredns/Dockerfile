@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/coredns@sha256:db2bf53126ed1c761d5a41f24a1b82a461c85f736ff6e90542e9522be4757848
+FROM gcr.io/google-containers/coredns:1.1.3
 MAINTAINER wedog <ly_wuyi@163.com>
